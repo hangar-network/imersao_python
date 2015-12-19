@@ -1,8 +1,8 @@
-* ### Pedra Papel e Tesoura!
+### Pedra Papel e Tesoura!
 
-Agora que você já está um pouco ambientado com comandos básicos da linguagem Python, vamos fazer um programa um pouco mais elaborado. Nosso objetivo é implementar o jogo "Pedra, Papel e Tesoura", utilizando a linha de comando.
+Agora que você já está um pouco ambientado com comandos básicos da linguagem Python, vamos fazer um programa um pouco mais elaborado. **Nosso objetivo é implementar o jogo "Pedra, Papel e Tesoura"**, utilizando a linha de comando.
 
-O jogo é bem simples. Teremos 2 jogadores que deverão escolher entre "pedra", "papel" ou "tesoura". Após ambos terem escolhido com qual objeto jogar, deve-se declarar o resultado segundo as regras seguintes:
+O jogo é bem simples. Teremos 2 jogadores que deverão escolher entre *pedra*, *papel* ou *tesoura*. Após ambos terem escolhido com qual objeto jogar, deve-se declarar o resultado segundo as regras seguintes:
 
 1. Pedra vence Tesoura.
 2. Tesoura vence Papel.
