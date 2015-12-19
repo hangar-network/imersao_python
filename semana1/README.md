@@ -1,5 +1,7 @@
 ## Objetivos e Atividades da 1a Semana
 
+O objetivo desta primeira semana de imersão é dominar as características básicas da linguagem [Python](https://www.python.org).
+
 ### Iniciantes
 
 
