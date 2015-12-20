@@ -1,12 +1,11 @@
 ## Objetivos e Atividades da 1a Semana
 
-O objetivo desta primeira semana de imersão é dominar as características básicas da linguagem [Python](https://www.python.org). 
+O objetivo desta primeira semana de imersão é dominar as características básicas da linguagem [Python](https://www.python.org). [Instruções de instalação](https://www.youtube.com/watch?v=vnPNOMejT-4).
 
 O nome da pasta representa o conteúdo central da seção, que é apresentado de forma incremental. Assim, o que foi apresentado em uma seção continua em uso nas seções seguintes.
 
 ### Iniciantes
 
-0. [Instalação do python](https://www.youtube.com/watch?v=vnPNOMejT-4)
 1. O interpretador Python
 2. Condicionais
 3. Repetição
