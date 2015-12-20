@@ -1,3 +1,5 @@
+## Projeto de fixação do aprendizado
+
 ### Pedra Papel e Tesoura!
 
 Agora que você já está um pouco ambientado com comandos básicos da linguagem Python, vamos fazer um programa um pouco mais elaborado. **Nosso objetivo é implementar o jogo "Pedra, Papel e Tesoura"**, utilizando a linha de comando.
