@@ -19,6 +19,7 @@ qual o tipo de dado a ser jogado. Após isso, exiba o resultado da jogada. Use a
 Dessa vez, vamos fazer algumas melhorias no jogo "Pedra, Papel e Tesoura" e torná-lo realmente jogável.
 
 **Limpando o terminal** 
+
 O módulo **os** permite que sejam dados alguns comandos direto para o sistema operacional. Usaremos a função *system* com o argumento *"clear"* para limpar o terminal logo após cada jogador inserir sua escolha.
 
 ```python
@@ -29,7 +30,8 @@ O módulo **os** permite que sejam dados alguns comandos direto para o sistema o
 
 Assim, será possível dois jogadores humanos jogarem sem que nenhum tenha desvantagem (o jogador 2 não pode espiar!).
 
-** Jogando contra o computador **
+**Jogando contra o computador**
+
 Ao abrir o seu programa, pergunte ao usuário se deseja jogar contra o computador ou contra outra pessoa. Faça as adaptações necessárias.
 
 Caso o usuário opte por jogar sozinho, ele faz a sua escolha e, então, o computador escolhe aleatoriamente entre *pedra*, *papel* ou *tesoura*. Talvez você precise usar uma lista, além do módulo random.
