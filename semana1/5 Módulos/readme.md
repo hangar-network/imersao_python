@@ -28,6 +28,12 @@ O módulo **os** permite que sejam dados alguns comandos direto para o sistema o
   os.system("clear")
 ```
 
+obs: No caso de você usar **Windows**, troque "clear" por "cls":
+
+```python
+  os.system("cls")
+```
+
 Assim, será possível dois jogadores humanos jogarem sem que nenhum tenha desvantagem (o jogador 2 não pode espiar!).
 
 **Jogando contra o computador**
