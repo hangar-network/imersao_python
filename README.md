@@ -1,3 +1,5 @@
+**ATENCÃO: Em caso de dúvidas, envie e-mail para hallpaaz@gmail.com **
+
 # Curso de Introdução à Programação com Python 3
 ###realizado pelo [Espaço de Estudos Botafogo] (http://www.costudying.org/)
 
@@ -11,7 +13,7 @@ Cada semana possui uma proposta de projeto que engloba o conteúdo apresentado e
 
 Semana 1: Aspectos básicos da linguagem
 
-Semana 2: 
+Semana 2: Aprofundamento em funções, módulos e arquivos
 
 Semana 3: Programação orientada a objetos
 
