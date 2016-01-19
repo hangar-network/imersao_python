@@ -8,3 +8,4 @@ def subtracao_de_quadrados(x, y):
     return res
 
 variavel_teste = "Teste do módulo matematica :)"
+modificao
